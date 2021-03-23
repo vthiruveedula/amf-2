@@ -27,6 +27,8 @@ func InitConfigFactory(f string) error {
 		}
 	}
 
+	CfgMgrStart()
+
 	return nil
 }
 

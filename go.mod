@@ -6,6 +6,9 @@ require (
 	git.cs.nctu.edu.tw/calee/sctp v1.1.0
 	github.com/antihax/optional v1.0.0
 	github.com/antonfisher/nested-logrus-formatter v1.3.0
+	github.com/coreswitch/cmd v0.0.0-20171009065211-39afb7adac20
+	github.com/coreswitch/netutil v0.0.0-20180206171925-505fe400e6fb // indirect
+	github.com/coreswitch/openconfigd v0.8.1
 	github.com/free5gc/UeauCommon v1.0.0
 	github.com/free5gc/aper v1.0.0
 	github.com/free5gc/fsm v1.0.0
@@ -28,5 +31,6 @@ require (
 	github.com/sirupsen/logrus v1.7.0
 	github.com/urfave/cli v1.22.4
 	golang.org/x/sys v0.0.0-20201214210602-f9fddec55a1e // indirect
+	google.golang.org/grpc v1.31.0
 	gopkg.in/yaml.v2 v2.4.0
 )
